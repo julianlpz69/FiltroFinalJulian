@@ -21,7 +21,7 @@ Ruta : http://localhost:5283/api/pago/FormasPago
 
 <br><br>
 
-###  Devuelve un listado de las formas de pago que aparecen en la tabla pago sin repetirse
+###  Devuelve el nombre de los clientes que han hecho pagos y el nombre de sus represententas junto con la ciudad de la oficina a la que pertenece el representante
 
 Ruta : http://localhost:5283/api/cliente/ConPagosYReprensentante
 
@@ -30,7 +30,7 @@ Ruta : http://localhost:5283/api/cliente/ConPagosYReprensentante
 
 <br><br>
 
-###  Devuelve un listado de las formas de pago que aparecen en la tabla pago sin repetirse
+### Devuelve un listado que muestre el nombre de cada empleado, el nombre de su gefe y el nombre del gefe de su gefe
 
 Ruta : http://localhost:5283/api/empleado/EmpleadosYGefes
 
