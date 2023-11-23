@@ -63,6 +63,7 @@ Ruta : http://localhost:5283/api/pedido/PedidosXEstados
 
 Ruta : http://localhost:5283/api/cliente/SinPagos
 
-![Uploading image.png…]()
+
+![Captura de pantalla 2023-11-23 171207](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/d8751669-09ba-41ec-9ed4-b51443d221d2)
 
 
