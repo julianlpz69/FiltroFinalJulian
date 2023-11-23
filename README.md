@@ -39,7 +39,7 @@ Ruta : http://localhost:5283/api/empleado/EmpleadosYGefes
 
 <br><br>
 
-###  Devuelve un listado de los productos que nunca han aparecido en un pedido. El resultado debe mostrar el nombre, la descripcion y la imagen del producot
+###  Devuelve un listado de los productos que nunca han aparecido en un pedido. El resultado debe mostrar el nombre, la descripcion y la imagen del producto
 
 Ruta : http://localhost:5283/api/producto/SinPedidos
 
