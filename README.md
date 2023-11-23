@@ -45,6 +45,15 @@ Ruta : http://localhost:5283/api/producto/SinPedidos
 
 ![Captura de pantalla 2023-11-23 165028](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/f665c95a-403c-4571-b1c7-9263984723fc)
 
+<br><br>
+
+###  Devuelve un listado de los productos que nunca han aparecido en un pedido. El resultado debe mostrar el nombre, la descripcion y la imagen del producto (Segunda Vez)
+
+Ruta : http://localhost:5283/api/producto/SinPedidos
+
+![Captura de pantalla 2023-11-23 165028](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/f665c95a-403c-4571-b1c7-9263984723fc)
+
+
 
 <br><br>
 
