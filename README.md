@@ -46,6 +46,23 @@ Ruta : http://localhost:5283/api/producto/SinPedidos
 ![Captura de pantalla 2023-11-23 165028](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/f665c95a-403c-4571-b1c7-9263984723fc)
 
 
+<br><br>
 
+### Cuantos pedidos hay en cada estado ordena el resultado de forma descendente por el numero de pedidos
+
+Ruta : http://localhost:5283/api/pedido/PedidosXEstados
+
+![Captura de pantalla 2023-11-23 170610](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/4483f37f-e9ba-4f18-b1f9-cc339053469f)
+
+
+<br><br>
+
+
+###  Devuelve un listado que muestre solamente los clientes que nos han realizado ningun pago
+
+
+Ruta : http://localhost:5283/api/cliente/SinPagos
+
+![Uploading image.png…]()
 
 
