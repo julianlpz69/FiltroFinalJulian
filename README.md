@@ -66,4 +66,25 @@ Ruta : http://localhost:5283/api/cliente/SinPagos
 
 ![Captura de pantalla 2023-11-23 171207](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/d8751669-09ba-41ec-9ed4-b51443d221d2)
 
+<br><br>
+
+
+### Devuelve el listado de clientes donde aparezca el nombre del cliente, el nombre y primer apellido de su representante de ventas y la ciudad de su oficna
+
+
+Ruta : http://localhost:5283/api/cliente/YReprensentante
+
+
+![Captura de pantalla 2023-11-23 171837](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/14b0a596-c502-41fd-8973-90893825b71e)
+
+
+<br><br>
+
+### Devuelve el listado de clientes, el nombre y primer apellido de su representante de ventas y el numero
+de telefono de la oficina del representante de ventas de aquellos cloentes que no hayan realizado ningun pago
+
+
+Ruta : http://localhost:5283/api/cliente/SinPagosYSusReprensentante
+
+![Captura de pantalla 2023-11-23 172541](https://github.com/julianlpz69/FiltroFinalJulian/assets/131847060/f058bec5-e867-42ec-b776-03dc8b9126d5)
 
